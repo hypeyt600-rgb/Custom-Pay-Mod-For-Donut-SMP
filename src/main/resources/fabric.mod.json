@@ -1,1 +1,17 @@
-
+{
+  "schemaVersion": 1,
+  "id": "donutpay",
+  "version": "1.0.0",
+  "name": "Donut Pay Alerts",
+  "description": "Popup toast, skin head and sounds when someone pays you. Special effect for 100M+.",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.donutpay.DonutPayClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
