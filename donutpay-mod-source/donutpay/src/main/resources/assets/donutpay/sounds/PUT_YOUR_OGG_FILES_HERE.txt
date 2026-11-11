@@ -1,0 +1,1 @@
+Put your .ogg files here: pay.ogg (normal payment) and mega.ogg (100M+). Must be Ogg Vorbis, mono works best.
