@@ -1,1 +1,4 @@
-
+{
+  "pay":  { "sounds": [ "donutpay:pay"  ] },
+  "mega": { "sounds": [ "donutpay:mega" ] }
+}
